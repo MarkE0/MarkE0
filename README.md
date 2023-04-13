@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarkE0
-- 👀 I’m interested in scripting (PowerShell, Bash, more), .net tech, more..
+- 👀 I’m interested in scripting (PowerShell, Bash, more), .net tech, DevOps, more..
 - 🌱 I’m currently learning.. the above and more.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
