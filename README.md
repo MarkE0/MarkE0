@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mark.
 - 👀 I’m interested in scripting (PowerShell, Bash, more), .net tech, DevOps, more..
-- 🌱 I’m currently learning Python, but also sharpening up some of the above.
+- 🌱 I’m currently learning Python, Cloud, DevOps, but also sharpening up some of the above.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
