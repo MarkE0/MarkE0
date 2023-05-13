@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mark Phillips.
-- 👀 I’m interested in scripting (PowerShell, Bash, more), .net tech, DevOps, more..
+- 👋 Hi, I’m Mark.
+- 👀 I’m interested in automation & scripting (PowerShell, Bash, more), .net tech, DevOps, more..
 - 🌱 I’m currently learning DevOps, Cloud, Python but also sharpening up some of the above and more.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
