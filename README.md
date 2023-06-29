@@ -2,9 +2,9 @@
 - 👀 I’m interested in automation & scripting (PowerShell, Bash, more), .net tech, DevOps, more..
   - Have been using scripting in some form or another for over 15 years.
 - 🌱 I’m currently learning and improving my knowledge of Devops and Cloud, and also sharpening up some of the above and more.
-  - I'm also branching out into a little Python..
 
 <!---
+  - I'm also branching out into a little Python..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <!---
