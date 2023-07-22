@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mark.
-- 👀 I’m interested in automation & scripting, DevOps .NET tech, more..
+- 👀 I’m interested in automation & scripting, DevOps, .NET tech, more..
   - Have been using scripting (PowerShell, Bash, and more) in some form or another for over 15 years.
 - 🌱 I’m currently learning and improving my knowledge of Devops and Cloud, and also sharpening up some of the above and more.
 
