@@ -1,7 +1,8 @@
 - Hi, I’m Mark. 👋
 - I’m interested in automation & scripting, DevOps, .NET tech, more..<br>
    I've been using scripting (PowerShell, Bash, and more) in some form or another for over 15 years.
-- I’m currently working on improving my knowledge of Devops and Cloud, and also sharpen up some of the above tech, and perhaps learn some new ones.
+- I’ve just started getting into Power Platform.
+- In the background, I'm working on improving my knowledge of Devops and Cloud, and also sharpen up some of the above tech.
 
 <!---
   - I'm also branching out into a little Python..
